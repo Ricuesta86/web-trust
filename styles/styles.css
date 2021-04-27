@@ -48,3 +48,12 @@ p{
     height: 100vh;
 
 }
+
+.col-planes h3 a{
+    color: white !important;
+}
+
+.col-planes h3 a:hover{
+    text-decoration: none;
+    color: rgb(247, 243, 21) !important;
+}
